@@ -1,0 +1,15 @@
+body { padding-top: 800px;
+    text-align: center;
+    background: linear-gradient(pink, lavender, lightblue);
+}
+
+h1 { text-align: center;
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 40px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+}
